@@ -1,0 +1,20 @@
+.price-card ul li{
+  list-style: none;
+}
+
+.main{
+  background-color: blue;
+  margin: 30px;
+  padding-top: 25px;
+  padding-left: 30px!important;
+  padding-right: 30px!important;
+}
+
+.btn{
+  width: 100%;
+  border-radius: 34px!important;
+}
+
+.name{
+  color: grey!important;
+}
